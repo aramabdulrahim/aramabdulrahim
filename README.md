@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aramabdulrahim
-- 👀 I’m interested in mahing films
-- 🌱 I’m currently learning unrel engine
+- 👀 I’m interested in making films
+- 🌱 I’m currently learning unreal engine
 - 💞️ I’m looking to collaborate on collecting 3d assets
 - 📫 How to reach me 
 
